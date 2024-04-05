@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+   }
+   h1 {
+    color: #007bff;
+   }
+   #leaveForm {
+    margin-bottom: 20px;
+   }
+   #leaveForm label {
+    margin-right: 10px;
+   }
+   #leaveBalance {
+    border: 1px solid #ccc;
+    padding: 10px;
+    display: inline-block;
+   }
+   button {
+    margin-top: 10px;
+   }
+   
